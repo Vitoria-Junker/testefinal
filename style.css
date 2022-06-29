@@ -1,0 +1,46 @@
+
+        h2 {
+            background-color: rgb(244, 127, 255);
+            color: aliceblue;     
+        }
+  
+        p {
+            color: rgb(226, 43, 98);
+            font-size: 24px;
+        }
+       
+        h3 {
+            
+            color: rgb(85, 61, 88);
+            background-color: rgb(255, 127, 191);
+            font-size: 54px;
+            
+            
+        }
+
+         h4 {
+             background-color: rgb(4, 189, 133);
+             color: black;
+             font-size: 44px;
+             background-position-x: center;
+         }
+        h5 {
+            background-color: rgb(226, 43, 113);
+            color:black;
+            font-size: 34px;
+
+        }
+        
+        ul {
+            color: rgb(73, 18, 77);
+            font-size:36px ;
+        }
+
+            .margens {
+                margin: 50px;
+                padding: 30px;
+                background-color: lightpink;
+            }
+
+            img { padding: 50px;              
+            }
